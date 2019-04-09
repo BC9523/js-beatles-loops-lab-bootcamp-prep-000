@@ -19,3 +19,13 @@ function johnLennonFacts(arrayFacts){
    }
    return facts;
 }
+
+function iLoveTheBeatles(number){
+  var mania = [];
+}
+
+
+
+
+
+
