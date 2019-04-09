@@ -5,4 +5,5 @@ function theBeatlesPlay(arrayMusicians, arrayInstruments){
     string = `${arrayMusicians[i]} plays ${arrayInstruments[i]}`;
     whoPlays.push(string);
   }  
+  return whoPlays;
 }
