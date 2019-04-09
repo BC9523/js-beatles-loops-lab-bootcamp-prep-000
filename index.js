@@ -22,6 +22,10 @@ function johnLennonFacts(arrayFacts){
 
 function iLoveTheBeatles(number){
   var mania = [];
+  do{
+    mania.push('I love the Beatles!');
+    number++;
+  } while(number< 15);
 }
 
 
