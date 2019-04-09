@@ -26,6 +26,7 @@ function iLoveTheBeatles(number){
     mania.push('I love the Beatles!');
     number++;
   } while(number< 15);
+  return mania;
 }
 
 
